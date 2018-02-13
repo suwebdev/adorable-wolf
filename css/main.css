@@ -4,19 +4,7 @@
    Author's custom styles
    ========================================================================== */
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.jumbotron  {
+  background-color: #7575a3;
+  color: white;
+}
